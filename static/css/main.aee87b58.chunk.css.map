@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,WACE,wBAAyB,CACzB,UAAW,CACX,eAAgB,CAChB,iBACF","file":"main.aee87b58.chunk.css","sourcesContent":[".jumbotron {\r\n  background-color: #ffb88c;\r\n  color: #fff;\r\n  padding: 100px 0;\r\n  text-align: center;\r\n}\r\n"]}
